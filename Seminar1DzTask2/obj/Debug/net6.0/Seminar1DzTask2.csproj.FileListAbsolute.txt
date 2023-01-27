@@ -1,0 +1,15 @@
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\bin\Debug\net6.0\Seminar1DzTask2.exe
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\bin\Debug\net6.0\Seminar1DzTask2.deps.json
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\bin\Debug\net6.0\Seminar1DzTask2.runtimeconfig.json
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\bin\Debug\net6.0\Seminar1DzTask2.dll
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\bin\Debug\net6.0\Seminar1DzTask2.pdb
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\obj\Debug\net6.0\Seminar1DzTask2.csproj.AssemblyReference.cache
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\obj\Debug\net6.0\Seminar1DzTask2.GeneratedMSBuildEditorConfig.editorconfig
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\obj\Debug\net6.0\Seminar1DzTask2.AssemblyInfoInputs.cache
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\obj\Debug\net6.0\Seminar1DzTask2.AssemblyInfo.cs
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\obj\Debug\net6.0\Seminar1DzTask2.csproj.CoreCompileInputs.cache
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\obj\Debug\net6.0\Seminar1DzTask2.dll
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\obj\Debug\net6.0\refint\Seminar1DzTask2.dll
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\obj\Debug\net6.0\Seminar1DzTask2.pdb
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\obj\Debug\net6.0\Seminar1DzTask2.genruntimeconfig.cache
+F:\ОБУЧЕНИЕ ПРОГРАММИРОВАНИЮ GB\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\DzSeminarsCSharp\Seminar1DzTask2\obj\Debug\net6.0\ref\Seminar1DzTask2.dll
